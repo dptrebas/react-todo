@@ -1,0 +1,6 @@
+// This is our courseware
+https://www.udemy.com/the-complete-react-web-app-developer-course/learn/v4/t/lecture/4545546?start=0
+
+// See what react is really doing
+http://babeljs.io/repl/
+
